@@ -18,8 +18,6 @@ gtest = { git = "https://github.com/gear-tech/gear", tag = "v1.2.1"   }
 gclient = { git = "https://github.com/gear-tech/gear",tag = "v1.2.1"  }
 
 
-[lib]
-crate-type = ["rlib"]
 
 
 
